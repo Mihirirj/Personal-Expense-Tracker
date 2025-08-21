@@ -21,6 +21,9 @@
 4. Run the main method in the `ExpensetrackerApplication.java` (or `Main.java`) file to start the application.
 
 ![1](https://github.com/user-attachments/assets/96608bcf-4b91-4de3-a7b2-d70261273c86)
-![2](https://github.com/user-attachments/assets/9ab165ac-eb2a-47ad-b16c-f6ed54d162d5)
+
+
+![3](https://github.com/user-attachments/assets/80271997-5f3a-417d-8fed-0cc20eb962ab)
+
 
 
