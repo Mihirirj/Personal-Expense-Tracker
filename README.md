@@ -20,6 +20,7 @@
 3. The Maven `pom.xml` file will automatically download the required dependencies.
 4. Run the main method in the `ExpensetrackerApplication.java` (or `Main.java`) file to start the application.
 
-![Main Menu](./img/1.jpg)
-![View Expenses](./img/2.jpg)
+![1](https://github.com/user-attachments/assets/96608bcf-4b91-4de3-a7b2-d70261273c86)
+![2](https://github.com/user-attachments/assets/9ab165ac-eb2a-47ad-b16c-f6ed54d162d5)
+
 
