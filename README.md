@@ -11,7 +11,7 @@
 ## Technologies Used
 - **Language:** Java 21
 - **Database:** SQLite
-- **Connectivity:** JDBC (Java Database Connectivity)
+- **Connectivity:** JDBC 
 - **Build Tool:** Apache Maven
 
 ## How to Run
