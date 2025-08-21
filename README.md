@@ -9,7 +9,7 @@
 - All data is saved permanently to a local database.
 
 ## Technologies Used
-- **Language:** Java 17
+- **Language:** Java 21
 - **Database:** SQLite
 - **Connectivity:** JDBC (Java Database Connectivity)
 - **Build Tool:** Apache Maven
@@ -20,6 +20,6 @@
 3. The Maven `pom.xml` file will automatically download the required dependencies.
 4. Run the main method in the `ExpensetrackerApplication.java` (or `Main.java`) file to start the application.
 
-![Main Menu](./img/1.JPG)
-![View Expenses](./img/2.JPG)
+![Main Menu](./img/1.jpg)
+![View Expenses](./img/2.jpg)
 
